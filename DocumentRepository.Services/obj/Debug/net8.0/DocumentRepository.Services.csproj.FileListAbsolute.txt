@@ -52,3 +52,21 @@ C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Se
 C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Services\obj\Debug\net8.0\refint\DocumentRepository.Services.dll
 C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.pdb
 C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Services\obj\Debug\net8.0\ref\DocumentRepository.Services.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\bin\Debug\net8.0\DocumentRepository.Services.deps.json
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\bin\Debug\net8.0\DocumentRepository.Services.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\bin\Debug\net8.0\DocumentRepository.Services.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\bin\Debug\net8.0\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\bin\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\bin\Debug\net8.0\DocumentRepository.Data.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\bin\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.AssemblyInfo.cs
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.sourcelink.json
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\Document.5F225BE7.Up2Date
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\refint\DocumentRepository.Services.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\DocumentRepository.Services.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject - Copy (2)\DocumentRepository.Services\obj\Debug\net8.0\ref\DocumentRepository.Services.dll

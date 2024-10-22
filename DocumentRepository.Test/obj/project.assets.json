@@ -8279,11 +8279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Test\\DocumentRepository.Test.csproj",
+      "projectUniqueName": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject - Copy (2)\\DocumentRepository.Test\\DocumentRepository.Test.csproj",
       "projectName": "DocumentRepository.Test",
-      "projectPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Test\\DocumentRepository.Test.csproj",
+      "projectPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject - Copy (2)\\DocumentRepository.Test\\DocumentRepository.Test.csproj",
       "packagesPath": "C:\\Users\\parth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Test\\obj\\",
+      "outputPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject - Copy (2)\\DocumentRepository.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8301,11 +8301,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Data\\DocumentRepository.Data.csproj": {
-              "projectPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Data\\DocumentRepository.Data.csproj"
+            "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject - Copy (2)\\DocumentRepository.Data\\DocumentRepository.Data.csproj": {
+              "projectPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject - Copy (2)\\DocumentRepository.Data\\DocumentRepository.Data.csproj"
             },
-            "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Services\\DocumentRepository.Services.csproj": {
-              "projectPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Services\\DocumentRepository.Services.csproj"
+            "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject - Copy (2)\\DocumentRepository.Services\\DocumentRepository.Services.csproj": {
+              "projectPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject - Copy (2)\\DocumentRepository.Services\\DocumentRepository.Services.csproj"
             }
           }
         }

@@ -32,9 +32,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sd-12 me-5">
                     <label asp-for="uploadedFile" class="form-label"></label><sup id="UploadMandatory" class="text-danger">*</sup>
-
-@*                     <sup  id="UploadMandatory" style="display:block;">*</sup>
- *@                    <input asp-for="uploadedFile" class="form-control" type="file" />
+                    <input asp-for="uploadedFile" class="form-control" type="file" />
                     <span asp-validation-for="uploadedFile" class="text-danger "></span>
                 </div>
                 <div class="col-auto align-self-end me-5">
@@ -58,9 +56,6 @@
 <div class="d-flex justify-content-center">
 
     <div style="background-color:white;">
-
-
-
         <table>
             <tr>
                 @for (int i = 1; i <= Model.pageCount; i++)
@@ -83,7 +78,6 @@
             url: '/Document/getDocumentDetailListPartial?pageIndex=' + index,
             type: 'GET',
             success: function (data) {
-                // $("#partialDisplayArea").append(data); // Update the container with the returned PartialView
                 $("#partialDisplayArea").empty().append(data); // Update the container with the returned PartialView
             }
         });
@@ -152,7 +146,6 @@
     $(document).ready(function () {
 
         $("#isUpdated").val(0);
-       // $("#UploadMandatory").css("display", "block");
         //Check the document details save succesfully or not.
         var is_submit = $("#IsSubmitted").val();
         if (is_submit == 1) {
