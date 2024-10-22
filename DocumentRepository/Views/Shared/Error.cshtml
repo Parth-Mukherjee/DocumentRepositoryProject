@@ -1,0 +1,23 @@
+﻿@model Guid
+@{
+    ViewData["Title"] = "Error";
+}
+
+
+
+<div class="customErrorDiv">
+
+    <h1 class="text-danger">ERROR</h1>
+    <h2 class="text-danger">An error occurred while processing your request.</h2>
+    @if (Model != null)
+    {
+        <p>
+            <strong>Request ID:</strong> <code>@Model</code>
+        </p>
+    }
+    <p><strong>PLEASE TRY AFTER SOMETIME !!</strong></p>
+    
+</div>
+
+
+@* <h1 style="color:white;">Something went wrong !!</h1> *@

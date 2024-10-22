@@ -1,0 +1,54 @@
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.deps.json
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.pdb
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.AssemblyInfo.cs
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\refint\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.pdb
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\ref\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.runtimeconfig.json
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\Document.7F316319.Up2Date
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.genruntimeconfig.cache
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.sourcelink.json
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.deps.json
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.runtimeconfig.json
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.pdb
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.AssemblyInfo.cs
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.sourcelink.json
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\Document.7F316319.Up2Date
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\refint\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.pdb
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.genruntimeconfig.cache
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Data\obj\Debug\net8.0\ref\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.deps.json
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.runtimeconfig.json
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Data.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\bin\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.AssemblyInfo.cs
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.sourcelink.json
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\Document.7F316319.Up2Date
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\refint\DocumentRepository.Data.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\DocumentRepository.Data.genruntimeconfig.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Data\obj\Debug\net8.0\ref\DocumentRepository.Data.dll

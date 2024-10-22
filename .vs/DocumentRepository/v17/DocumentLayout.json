@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C85915-BEF0-4AEF-849B-A79A6D411F58}|DocumentRepository.Models\\DocumentRepository.Models.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.models\\filevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C85915-BEF0-4AEF-849B-A79A6D411F58}|DocumentRepository.Models\\DocumentRepository.Models.csproj|solutionrelative:documentrepository.models\\filevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\views\\document\\adddocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\views\\document\\adddocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C65CC89-FF8B-403D-983A-0553EC5475AA}|DocumentRepository.Services\\DocumentRepository.Services.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C65CC89-FF8B-403D-983A-0553EC5475AA}|DocumentRepository.Services\\DocumentRepository.Services.csproj|solutionrelative:documentrepository.services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979232DD-AE6C-4B6B-B0B6-55846DAF67FB}|DocumentRepository.Test\\DocumentRepository.Test.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.test\\documentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979232DD-AE6C-4B6B-B0B6-55846DAF67FB}|DocumentRepository.Test\\DocumentRepository.Test.csproj|solutionrelative:documentrepository.test\\documentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADC65E-31FD-44CC-B59A-FA7F127B6878}|DocumentRepository.Data\\DocumentRepository.Data.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADC65E-31FD-44CC-B59A-FA7F127B6878}|DocumentRepository.Data\\DocumentRepository.Data.csproj|solutionrelative:documentrepository.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C65CC89-FF8B-403D-983A-0553EC5475AA}|DocumentRepository.Services\\DocumentRepository.Services.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C65CC89-FF8B-403D-983A-0553EC5475AA}|DocumentRepository.Services\\DocumentRepository.Services.csproj|solutionrelative:documentrepository.services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\customfilters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\customfilters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\views\\shared\\_documentdetailslistview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\views\\shared\\_documentdetailslistview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C85915-BEF0-4AEF-849B-A79A6D411F58}|DocumentRepository.Models\\DocumentRepository.Models.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.models\\documentdetaillistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C85915-BEF0-4AEF-849B-A79A6D411F58}|DocumentRepository.Models\\DocumentRepository.Models.csproj|solutionrelative:documentrepository.models\\documentdetaillistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C85915-BEF0-4AEF-849B-A79A6D411F58}|DocumentRepository.Models\\DocumentRepository.Models.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.models\\documentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C85915-BEF0-4AEF-849B-A79A6D411F58}|DocumentRepository.Models\\DocumentRepository.Models.csproj|solutionrelative:documentrepository.models\\documentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37815425-250B-4EE2-9593-3D44A3D17DE9}|DocumentRepository\\DocumentRepository.csproj|solutionrelative:documentrepository\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADC65E-31FD-44CC-B59A-FA7F127B6878}|DocumentRepository.Data\\DocumentRepository.Data.csproj|c:\\users\\parth\\source\\repos\\gitproject\\documentrepoproject\\documentrepository.data\\migrations\\20241021153630_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADC65E-31FD-44CC-B59A-FA7F127B6878}|DocumentRepository.Data\\DocumentRepository.Data.csproj|solutionrelative:documentrepository.data\\migrations\\20241021153630_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Services\\DocumentService.cs",
+              "RelativeToolTip": "DocumentRepository.Services\\DocumentService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:27:21.395Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Services\\IDocumentService.cs",
+              "RelativeToolTip": "DocumentRepository.Services\\IDocumentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:06:16.237Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Test\\DocumentServiceTest.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Test\\DocumentServiceTest.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Test\\DocumentServiceTest.cs",
+              "RelativeToolTip": "DocumentRepository.Test\\DocumentServiceTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:27:09.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDocument.cshtml",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Views\\Document\\AddDocument.cshtml",
+              "RelativeDocumentMoniker": "DocumentRepository\\Views\\Document\\AddDocument.cshtml",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Views\\Document\\AddDocument.cshtml",
+              "RelativeToolTip": "DocumentRepository\\Views\\Document\\AddDocument.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:31:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "DocumentRepository\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "DocumentRepository\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:33:22.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Models\\FileValidationAttribute.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Models\\FileValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Models\\FileValidationAttribute.cs",
+              "RelativeToolTip": "DocumentRepository.Models\\FileValidationAttribute.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv18AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:33:22.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DocumentRepository.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:10:27.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\appsettings.json",
+              "RelativeDocumentMoniker": "DocumentRepository\\appsettings.json",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\appsettings.json",
+              "RelativeToolTip": "DocumentRepository\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T15:31:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\CustomFilters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "DocumentRepository\\CustomFilters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\CustomFilters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "DocumentRepository\\CustomFilters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:33:22.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241021153630_initial.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Data\\Migrations\\20241021153630_initial.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Data\\Migrations\\20241021153630_initial.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Data\\Migrations\\20241021153630_initial.cs",
+              "RelativeToolTip": "DocumentRepository.Data\\Migrations\\20241021153630_initial.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:36:30.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DocumentRepository\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DocumentRepository\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:13:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentRepository\\Program.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Program.cs",
+              "RelativeToolTip": "DocumentRepository\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:58:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_DocumentDetailsListView.cshtml",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Views\\Shared\\_DocumentDetailsListView.cshtml",
+              "RelativeDocumentMoniker": "DocumentRepository\\Views\\Shared\\_DocumentDetailsListView.cshtml",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Views\\Shared\\_DocumentDetailsListView.cshtml",
+              "RelativeToolTip": "DocumentRepository\\Views\\Shared\\_DocumentDetailsListView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:19:50.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentDetailListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Models\\DocumentDetailListViewModel.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Models\\DocumentDetailListViewModel.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Models\\DocumentDetailListViewModel.cs",
+              "RelativeToolTip": "DocumentRepository.Models\\DocumentDetailListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:19:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Models\\DocumentViewModel.cs",
+              "RelativeDocumentMoniker": "DocumentRepository.Models\\DocumentViewModel.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository.Models\\DocumentViewModel.cs",
+              "RelativeToolTip": "DocumentRepository.Models\\DocumentViewModel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAawCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:08:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DocumentRepository\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\GitProject\\DocumentRepoProject\\DocumentRepository\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DocumentRepository\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:33:22.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

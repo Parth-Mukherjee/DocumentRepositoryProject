@@ -1,0 +1,243 @@
+﻿@model DocumentViewModel
+
+<style>
+    .pagination-box {
+        text-align: center;
+        padding: 5px 10px; /* Small padding for spacing */
+        border: 1px solid #ddd; /* Optional: border for each box */
+        text-decoration:none;}
+
+    #IndexforPagenation {
+        text-decoration:none;
+    }
+
+</style>
+<div class="container mt-3">
+    <div class="boxShadow ">
+        <div class="col-lg-12 col-md-6 col-sm-12 row" style="margin-top:3%;">
+            <form asp-action="AddDocument" asp-controller="Document" method="post" enctype="multipart/form-data" class="d-flex flex-wrap mt-3">
+                <div class="col-lg-3 col-md-6 col-sd-12 me-4 ms-5 ">
+                    <label asp-for="documentName" class="form-label"></label><sup class="text-danger">*</sup>
+                    <input asp-for="documentName" class="form-control" />
+                    <input type="hidden" asp-for="isUpdated" />
+                    <input type="hidden" asp-for="documentID" />
+                    <input type="hidden" id="IsSubmitted" value="@ViewBag.Issumbitted" />
+                    
+                    <span asp-validation-for="documentName" class="text-danger"></span>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sd-12 me-5">
+                    <label asp-for="documentCode" class="form-label"></label><sup class="text-danger">*</sup>
+                    <input asp-for="documentCode" class="form-control" />
+                    <span asp-validation-for="documentCode" class="text-danger"></span>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sd-12 me-5">
+                    <label asp-for="uploadedFile" class="form-label"></label><sup id="UploadMandatory" class="text-danger">*</sup>
+
+@*                     <sup  id="UploadMandatory" style="display:block;">*</sup>
+ *@                    <input asp-for="uploadedFile" class="form-control" type="file" />
+                    <span asp-validation-for="uploadedFile" class="text-danger "></span>
+                </div>
+                <div class="col-auto align-self-end me-5">
+                    <button type="submit" id="UploadBtn" class="btn btn-primary">Upload</button>
+                </div>
+            </form>
+            <div id="error-message" class="text-danger CustomValidation"></div>
+        </div>
+    </div>
+</div>
+
+
+@if (Model.documentDetailList.Count > 0)
+{ 
+    <div id="partialDisplayArea">
+        <partial name="_DocumentDetailsListView" model="Model.documentDetailList"></partial>
+    </div>
+}
+
+
+<div class="d-flex justify-content-center">
+
+    <div style="background-color:white;">
+
+
+
+        <table>
+            <tr>
+                @for (int i = 1; i <= Model.pageCount; i++)
+                {
+                    <td class="pagination-box">
+                            <a href="#" onclick="PagerClick('@i')" id="IndexforPagenation">@i</a>
+                    </td>
+                }
+            </tr>
+        </table>
+    </div>
+</div>
+
+<input type="hidden" id="hfCurrentPageIndex" name="currentPageIndex" />
+<script>
+
+    function PagerClick(index) {
+        $("#hfCurrentPageIndex").val(index);
+        $.ajax({
+            url: '/Document/getDocumentDetailListPartial?pageIndex=' + index,
+            type: 'GET',
+            success: function (data) {
+                // $("#partialDisplayArea").append(data); // Update the container with the returned PartialView
+                $("#partialDisplayArea").empty().append(data); // Update the container with the returned PartialView
+            }
+        });
+    }
+
+
+
+
+    $("#UploadBtn").click(function (event) {
+        debugger;
+
+
+        var DocumentName = $("#documentName").val();
+        var DocumentCode = $("#documentCode").val();
+        if (DocumentName == "") {
+            alert("Document Name can't be empty");
+            return false;
+        }
+        if (DocumentCode == "") {
+            alert("Document Code can't be empty");
+            return false;
+        }
+        //Check all the Validation cases for Fresh Submit of document;
+        if ($("#isUpdated").val() == 0) {
+
+            if ($("#uploadedFile").val() == "") {
+                alert("Kindly select a PDF or Excel file to proceed");
+                event.preventDefault();
+                return false;
+            }
+            else {
+                ValidateFileExtensionAndSize(event);
+            }
+        }
+        //Check all the Validation cases for Update document if the user has selected the file.
+        else {
+            if ($("#uploadedFile").val() != "") {
+
+                ValidateFileExtensionAndSize(event);
+            }
+        }
+    });
+
+    function ValidateFileExtensionAndSize(event) {
+        var file = $("#uploadedFile")[0].files[0];
+        if (file.size == 0) {
+            alert("Uploaded File is empty, Kindly try with a different file");
+            event.preventDefault();
+            return false;
+        }
+        var fileName = $('#uploadedFile').val().split('\\').pop();
+        var documentExtension = fileName.split('.').pop().toLowerCase();
+
+        if (documentExtension != "pdf" && documentExtension != "xlsx" && documentExtension != "xls") {
+            alert("Invalid file type. Only Excel and PDF files are allowed");
+            event.preventDefault();
+            return false;
+        }
+        if ((file.size / 1024 / 1024) > 5) {
+            alert("Files up to 5 MB are supported. Please choose a smaller file.");
+            event.preventDefault();
+            return false;
+        }
+    };
+
+    $(document).ready(function () {
+
+        $("#isUpdated").val(0);
+       // $("#UploadMandatory").css("display", "block");
+        //Check the document details save succesfully or not.
+        var is_submit = $("#IsSubmitted").val();
+        if (is_submit == 1) {
+            alert("Document Details saved successfully !!");
+        }
+        //Check For document Name Length and Special Characters
+        $("#documentName").on('keypress', function (e) {
+            var keyCode = e.which;
+            var documentName = $("#documentName").val();
+
+            //Check documentLength should not be greater then 50 , and notify the user for the same .
+            if ((documentName.length + 1) > 50) {
+                $("#error-message").text("Maximum 50 characters allowed for Document Name");
+                return false;
+            }
+            else {
+                $("#error-message").text("");
+            }
+
+            // Check for alphanumeric characters (a-z, A-Z, 0-9) , and notify the user for the same .
+            if (!((keyCode >= 48 && keyCode <= 57) || // numbers
+                (keyCode >= 65 && keyCode <= 90) || // uppercase letters
+                (keyCode >= 97 && keyCode <= 122))) { // lowercase letters
+                $("#error-message").text("Only alphanumeric characters are allowed.");
+                e.preventDefault();
+            } else {
+                $("#error-message").text("");
+            }
+        });
+
+
+        //Check For document Code Length and only characters allowed
+        $("#documentCode").on('keypress', function (e) {
+            var keyCode = e.which;
+
+            //Check documentLength should not be greater then 3 , and notify the user for the same .
+            var a = $("#documentCode").val();
+            if ((a.length + 1) > 3) {
+                $("#error-message").text("Maximum 3 characters allowed for Document Code");
+                return
+            }
+            else {
+                $("#error-message").text("");
+            }
+
+
+            // Check for characters (a-z, A-Z)
+            if (!(
+                (keyCode >= 65 && keyCode <= 90) || // uppercase letters
+                (keyCode >= 97 && keyCode <= 122))) { // lowercase letters
+                $("#error-message").text("Only characters are allowed for Document Code");
+                e.preventDefault();
+            } else {
+                $("#error-message").text("");
+            }
+        });
+
+        function checkIsDocumentSubmitted()
+        {
+            alert("Document submitted succesfully");
+        };
+
+    });
+
+    function functiontest(documentId) {
+        // alert(documentId);
+        $("#isUpdated").val(1);
+        $("#UploadMandatory").css("display","none");
+        debugger;
+        $.ajax({
+            url: '/Document/GetDocumentDataForEdit',
+            type: 'GET',
+            data: { documentID: documentId },
+            contentType: "application/json",
+            success: function (data) {
+                //alert("Hello");
+                //alert(data.documentName);
+                $("#documentName").val(data.documentName);
+                $("#documentCode").val(data.documentCode);
+                $("#documentID").val(documentId);
+                $("#uploadedFile").val("");
+   
+                //alert($("#hiddenDocumentIDForUpdate").val());
+            }
+        });
+    }
+
+</script>

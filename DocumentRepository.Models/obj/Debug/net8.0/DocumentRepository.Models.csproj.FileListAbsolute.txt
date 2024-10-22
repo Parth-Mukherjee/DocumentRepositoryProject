@@ -1,0 +1,39 @@
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.deps.json
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.AssemblyInfo.cs
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\refint\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\ref\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\DocumentRepository\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.sourcelink.json
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.deps.json
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.AssemblyInfo.cs
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.sourcelink.json
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\refint\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\DocumentRepository - FinalCopy\DocumentRepository.Models\obj\Debug\net8.0\ref\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.deps.json
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\bin\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.AssemblyInfo.cs
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.sourcelink.json
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\refint\DocumentRepository.Models.dll
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\DocumentRepository.Models.pdb
+C:\Users\parth\source\repos\GitProject\DocumentRepoProject\DocumentRepository.Models\obj\Debug\net8.0\ref\DocumentRepository.Models.dll

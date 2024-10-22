@@ -1,0 +1,48 @@
+﻿@model List<DocumentDetailListViewModel>
+<div class="container mt-5">
+    <table class="table  tablecss table-bordered">
+        <thead >
+            <tr>
+                <td class="CustomNavbar">Document Name</td>
+                <td class="CustomNavbar">Document Code</td>
+                <td class="CustomNavbar">View</td>
+                <td class="CustomNavbar">Edit</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr id="@item.documentID">
+                    <td class="tablecss">@item.documentName</td>
+                    <td>@item.documentCode</td>
+                    <td class="center-icon"><a href="@item.fileAddress" download><img src="~/icons/lsview.png" style="max-height:20px; max-width:20px;" /></a></td>
+                    <td class="center-icon1"><a id="editDocument" onclick="functiontest('@item.documentID')" href="#"><img src="~/icons/pencil.png" style="max-height:20px; max-width:20px;" /></a></td>
+                    @* <td><img src="~/icons/lsview.png" style="max-height:25px; max-width:25px;" /> *@
+                </tr>
+               
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+
+
+    // function GetDocumentDataByID(docId) {
+    //     alert(docId);
+    //     console.log("hi");
+    //     // $.ajax({
+    //     //     url: '/Document/GetDocumentData', // Adjust URL as needed
+    //     //     type: 'GET',
+    //     //     data: { id: docId },
+    //     //     success: function (data) {
+    //     //         $('#documentTitle').text(data.title);
+    //     //         $('#documentContent').text(data.content);
+    //     //         $('#documentDate').text(data.date);
+    //     //     },
+    //     //     error: function (xhr, status, error) {
+    //     //         console.error("Error fetching document data: ", error);
+    //     //     }
+    //     // });
+    // }
+</script>
